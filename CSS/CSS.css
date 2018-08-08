@@ -1,0 +1,51 @@
+header {
+    background-color: rgb(158, 0, 158);
+    height: 50px;
+    bottom: 50%;
+}
+
+.centrage {
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    padding: center;
+}
+
+main {
+    background-color: blue;
+    height: 150px;
+    width: 46%;
+    margin: 1%;
+    float: left;
+    text-align: center;
+    padding: 1%;
+
+}
+
+.aside_1 {
+    background-color: aqua;
+    height: 150px;
+    width: 21%;
+    margin: 1%;
+    float: left;
+    padding: 1%;
+}
+
+.aside_2 {
+    background-color: green;
+    height: 150px;
+    width: 21%;
+    margin: 1%;
+    float: left;
+    padding: 1%;
+}
+.clear{
+    clear: both;
+}
+footer {
+    background-color: grey;
+    height: 40px;
+    padding: 5px 15px 15px 15px;
+}
